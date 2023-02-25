@@ -23,7 +23,7 @@ Currently I am a student majoring in information systems and technology. I have 
 
 ## Code examples
 
-```
+```JS
 function explode(s) {
   let result = ''
   for(let i = 0; i < s.length;i++){
@@ -74,3 +74,21 @@ function explode(s) {
   return result;
 }
 ```
+
+## Experience
+
+No
+
+## Education
+
+- Bachelor, Moscow Non-State University Synergy, Moscow
+  - Information systems and technologies (in progress)
+- App Rolling School (in progress)
+
+## Languages
+
+- Russian
+- Belorussian
+- German(basic)
+- English (A1,
+  At the moment I'm studying in all ways)
